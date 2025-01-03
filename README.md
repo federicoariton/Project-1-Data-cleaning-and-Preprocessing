@@ -4,6 +4,10 @@
 
 This project demonstrates the data cleaning and preprocessing steps applied to the Titanic dataset to prepare it for analysis. The objective was to address missing values, correct data types, and handle outliers to ensure a reliable and analyzable dataset.
 
+## Additional Resources
+
+- More Information: For a detailed explanation of the project structure, methodologies, and findings, refer to the Full Project Report.[Full Project Report](https://github.com/federicoariton/Project-1-Data-cleaning-and-Preprocessing/blob/main/Data%20cleaning%20and%20Preprocessing%20Report%20pdf.pdf)
+
 ---
 
 ## Project Steps
